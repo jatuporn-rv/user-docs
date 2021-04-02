@@ -80,7 +80,7 @@
 
     ![image](images/register_and_login/img_google_login_config_03.png)
 
-    **** กรณีตั้งค่าไว้แต่ยังไม่เปิดให้ user ใช้งาน สามารถ ปิด/เปิดปุ่ม Social Login ได้
+  
 
      4. On Login Setting, click open switch button.
      5. Click "Preview"
